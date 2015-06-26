@@ -18,3 +18,4 @@ src for source code
     1. item 2
         1. item 3
 
+Markdown has *italic* and **bold** syntax
